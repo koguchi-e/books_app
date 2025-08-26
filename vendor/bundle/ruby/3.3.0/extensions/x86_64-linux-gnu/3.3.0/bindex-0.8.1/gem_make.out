@@ -1,0 +1,18 @@
+current directory: /home/koguchi/learning/my_web_app/boooks_app/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+/usr/bin/ruby3.3 -I/usr/lib/ruby/vendor_ruby extconf.rb
+creating Makefile
+
+current directory: /home/koguchi/learning/my_web_app/boooks_app/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20250826-40257-uj0qvq sitelibdir\=./.gem.20250826-40257-uj0qvq clean
+
+current directory: /home/koguchi/learning/my_web_app/boooks_app/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20250826-40257-uj0qvq sitelibdir\=./.gem.20250826-40257-uj0qvq
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/koguchi/learning/my_web_app/boooks_app/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20250826-40257-uj0qvq sitelibdir\=./.gem.20250826-40257-uj0qvq install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20250826-40257-uj0qvq/skiptrace/internal
+
+current directory: /home/koguchi/learning/my_web_app/boooks_app/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20250826-40257-uj0qvq sitelibdir\=./.gem.20250826-40257-uj0qvq clean

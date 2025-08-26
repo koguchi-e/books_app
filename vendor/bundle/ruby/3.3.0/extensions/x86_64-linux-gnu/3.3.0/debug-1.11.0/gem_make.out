@@ -1,0 +1,19 @@
+current directory: /home/koguchi/learning/my_web_app/boooks_app/vendor/bundle/ruby/3.3.0/gems/debug-1.11.0/ext/debug
+/usr/bin/ruby3.3 -I/usr/lib/ruby/vendor_ruby extconf.rb
+creating Makefile
+
+current directory: /home/koguchi/learning/my_web_app/boooks_app/vendor/bundle/ruby/3.3.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250826-42721-77sd5d sitelibdir\=./.gem.20250826-42721-77sd5d clean
+
+current directory: /home/koguchi/learning/my_web_app/boooks_app/vendor/bundle/ruby/3.3.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250826-42721-77sd5d sitelibdir\=./.gem.20250826-42721-77sd5d
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/koguchi/learning/my_web_app/boooks_app/vendor/bundle/ruby/3.3.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250826-42721-77sd5d sitelibdir\=./.gem.20250826-42721-77sd5d install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20250826-42721-77sd5d/debug
+
+current directory: /home/koguchi/learning/my_web_app/boooks_app/vendor/bundle/ruby/3.3.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250826-42721-77sd5d sitelibdir\=./.gem.20250826-42721-77sd5d clean
