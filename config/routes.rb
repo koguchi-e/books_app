@@ -1,4 +1,7 @@
 Rails.application.routes.draw do
+  get "profiles/show"
+  get "profiles/edit"
+  get "profiles/update"
   resources :books
   # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
 
@@ -14,4 +17,6 @@ Rails.application.routes.draw do
   # root "posts#index"
 
   get "/home", to: "home#index"
+  
+  resource :profile
 end
